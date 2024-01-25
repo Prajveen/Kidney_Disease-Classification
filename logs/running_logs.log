@@ -1,2 +1,12 @@
 [2024-01-25 11:56:02,032: INFO: main:  This is custom log]
 [2024-01-25 11:57:56,513: INFO: main:  This is custom log]
+[2024-01-25 13:42:57,046: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-25 13:42:57,047: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-01-25 13:42:57,049: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-25 13:42:57,049: INFO: common: created directory at: artifacts]
+[2024-01-25 13:42:57,049: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-25 13:42:57,049: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1StKiNON7BN6Q_X83FrbyDtgvsjfeBQKY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-01-25 13:43:15,551: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1StKiNON7BN6Q_X83FrbyDtgvsjfeBQKY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-01-25 13:43:16,579: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
